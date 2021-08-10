@@ -1,0 +1,10 @@
+{
+    "home": 0,
+    "current": 0,
+    "apps": [
+        "lazyclock.app.js",
+        "swatch.app.js",
+        "counter.app.js",
+        "alpinenav.app.js"
+    ]
+}
